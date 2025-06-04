@@ -9,31 +9,30 @@ PoW (Pop-up Window) Dataset: 968 real-world commercial app PoWs (collected from 
 
 Examples: The following examples illustrate common sneaky PoW patterns found in the "All PDF Reader" application. The first case (Fig 1-a) manipulates exit confirmation dialogs by highlighting an irrelevant "Open" button in red while minimizing genuine options, embedding "Free Wi-Fi" ads within system interfaces to create visual-contextual confusion. The second (Fig 1-b) fabricates storage crises by falsely reporting 90%-10% depletion, using threatening prompts ("Your phone will crash") while only displaying a prominent "Clear Cache" button. The third (Fig 1-c) falsely claims PDF incompatibility with Android, displaying an urgent "Fix Now" button while obscuring the close option to drive ad clicks. The fourth (Fig 1-d) mimics SMS notifications ("I miss you") to exploit user curiosity, representing high-risk interface spoofing that enables phishing. Collectively, these patterns demonstrate systematic integration of visual misdirection, false urgency, and contextual manipulation, compromising both usability and security through malware risks, privacy violations, and deceptive dark patterns.
 
-
-<div align="center" style="margin: 20px 0; white-space: nowrap;">
-  <div style="display: inline-block; text-align: center; white-space: normal;">
-    <div style="display: inline-block; width: auto; max-width: 100%;">
-      <div style="display: inline-block; margin: 0 15px; vertical-align: top;">
+<div align="center" style="margin: 20px 0;">
+  <table style="display: inline-table; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 0 15px; text-align: center; vertical-align: top;">
         <img src=".github/img/appcase1.png" width="200" height="400" style="object-fit: contain;">
         <p style="font-size: 14px; margin: 5px 0;"><b>Fig.1-a</b></p>
-      </div>
-      <div style="display: inline-block; margin: 0 15px; vertical-align: top;">
+      </td>
+      <td style="padding: 0 15px; text-align: center; vertical-align: top;">
         <img src=".github/img/appcase2.png" width="200" height="400" style="object-fit: contain;">
         <p style="font-size: 14px; margin: 5px 0;"><b>Fig.1-b</b></p>
-      </div>
-      <div style="display: inline-block; margin: 0 15px; vertical-align: top;">
+      </td>
+      <td style="padding: 0 15px; text-align: center; vertical-align: top;">
         <img src=".github/img/appcase3.png" width="200" height="400" style="object-fit: contain;">
         <p style="font-size: 14px; margin: 5px 0;"><b>Fig.1-c</b></p>
-      </div>
-      <div style="display: inline-block; margin: 0 15px; vertical-align: top;">
+      </td>
+      <td style="padding: 0 15px; text-align: center; vertical-align: top;">
         <img src=".github/img/appcase4.png" width="200" height="400" style="object-fit: contain;">
         <p style="font-size: 14px; margin: 5px 0;"><b>Fig.1-d</b></p>
-      </div>
-    </div>
-    <p style="font-size: 14px; margin-top: 10px;">
-      <b>Figure 1.</b> Sneaky PoW Examples in "All PDF Reader" App.
-    </p>
-  </div>
+      </td>
+    </tr>
+  </table>
+  <p style="font-size: 14px; margin-top: 10px;">
+    <b>Figure 1.</b> Sneaky PoW Examples in "All PDF Reader" App.
+  </p>
 </div>
 
 
