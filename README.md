@@ -92,4 +92,4 @@ Paper links:
     - [ArXiv](https://arxiv.org/abs/2505.12056)
 
 ## License
-UIDarkPatternPopup is freely available for free non-commercial use.
+UIDarkPatternPopup is freely available freely non-commercial use.
